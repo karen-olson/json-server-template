@@ -1,0 +1,20 @@
+Possible other format for ingredients value:
+
+      "ingredients": {
+        "boneless, skinless chicken thighs": [2, "lbs"],
+        "apple juice": [0.5, "cups"],
+        "Bourbon": [0.5, "cups"],
+        "soy sauce": [0.25, "cups"],
+        "light brown sugar": [0.5, "cups"],
+        "ketchup": [0.25, "cups"],
+        "honey": [2, "tbsp"],
+        "crushed red pepper flakes": [0.5, "tsp"],
+        "garlic cloves, pressed": [4, ""],
+        "ginger": [0.5, "tsp"],
+        "cornstarch": [3, "tbsp"],
+        "water": [3, "tbsp"],
+        "green onions, sliced": [3, ""]
+      },
+
+Recipe sources: 
+https://www.shugarysweets.com/bourbon-chicken/
